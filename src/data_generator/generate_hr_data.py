@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 from faker import Faker
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, date
 
 fake = Faker()
 np.random.seed(42)
@@ -10,7 +10,7 @@ np.random.seed(42)
 OUTPUT_DIR = Path("data/sample")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-NUM_EMPLOYEES = 10000
+NUM_EMPLOYEES = 100
 
 departments = pd.DataFrame({
     "department_id": ["D001", "D002", "D003", "D004", "D005", "D006", "D007"],
@@ -108,7 +108,7 @@ payroll = pd.DataFrame(payroll_records)
 training_records = []
 courses = ["Safety Induction", "Leadership Basics", "Data Privacy", "Mine Site Safety", "Diversity & Inclusion"]
 
-for _, row in employees.sample(30000, replace=True).iterrows():
+for _, row in employees.sample(300, replace=True).iterrows():
     training_records.append({
         "employee_id": row["employee_id"],
         "course_name": np.random.choice(courses),
@@ -121,7 +121,7 @@ for _, row in employees.sample(30000, replace=True).iterrows():
 training = pd.DataFrame(training_records)
 
 # Engagement
-engagement = employees.sample(7000).copy()
+engagement = employees.sample(70).copy()
 engagement = engagement[["employee_id"]]
 engagement["survey_date"] = "2025-09-30"
 engagement["engagement_score"] = np.random.randint(1, 11, size=len(engagement))
@@ -132,12 +132,12 @@ engagement["manager_score"] = np.random.randint(1, 11, size=len(engagement))
 leave_records = []
 leave_types = ["Annual Leave", "Sick Leave", "Parental Leave", "Unpaid Leave"]
 
-for _, row in employees.sample(20000, replace=True).iterrows():
+for _, row in employees.sample(200, replace=True).iterrows():
     days = np.random.randint(1, 15)
     leave_records.append({
         "employee_id": row["employee_id"],
         "leave_type": np.random.choice(leave_types),
-        "start_date": fake.date_between(start_date="2025-01-01", end_date="2025-12-01"),
+        "start_date": fake.date_between(start_date=date(2025, 1, 1), end_date=date(2025, 12, 1)),
         "days": days,
         "approved": np.random.choice([True, False], p=[0.9, 0.1])
     })

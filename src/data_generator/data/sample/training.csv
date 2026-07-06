@@ -1,0 +1,301 @@
+employee_id,course_name,completion_date,hours,score,mandatory
+E000051,Mine Site Safety,2026-02-11,4,76,False
+E000085,Safety Induction,2019-07-15,1,80,True
+E000046,Data Privacy,2022-06-18,8,96,True
+E000021,Diversity & Inclusion,2024-11-16,8,100,True
+E000044,Leadership Basics,2025-05-27,4,100,True
+E000011,Safety Induction,2026-04-09,16,77,True
+E000068,Mine Site Safety,2024-06-16,2,75,True
+E000001,Data Privacy,2019-11-06,1,95,False
+E000092,Diversity & Inclusion,2026-05-22,16,93,True
+E000063,Mine Site Safety,2026-05-23,2,62,True
+E000024,Mine Site Safety,2024-03-01,8,80,False
+E000099,Safety Induction,2026-01-04,8,80,True
+E000013,Data Privacy,2025-07-29,16,69,True
+E000098,Diversity & Inclusion,2026-06-17,2,72,True
+E000011,Leadership Basics,2026-03-18,1,95,False
+E000100,Data Privacy,2026-04-02,1,62,True
+E000051,Safety Induction,2024-07-12,8,83,False
+E000017,Safety Induction,2026-06-14,8,85,False
+E000099,Mine Site Safety,2024-01-24,8,75,False
+E000082,Mine Site Safety,2025-12-01,2,71,True
+E000086,Diversity & Inclusion,2024-07-01,2,89,True
+E000024,Diversity & Inclusion,2024-10-03,16,84,False
+E000019,Leadership Basics,2023-08-29,8,71,True
+E000037,Data Privacy,2025-05-05,16,95,True
+E000085,Mine Site Safety,2021-02-09,4,68,True
+E000008,Safety Induction,2022-05-16,1,67,True
+E000028,Data Privacy,2022-11-10,8,99,True
+E000005,Safety Induction,2025-10-04,16,93,True
+E000017,Diversity & Inclusion,2026-05-03,8,82,False
+E000036,Mine Site Safety,2025-11-28,2,99,False
+E000019,Diversity & Inclusion,2025-12-29,8,70,False
+E000064,Mine Site Safety,2025-04-05,1,76,True
+E000091,Mine Site Safety,2026-06-14,2,85,False
+E000098,Data Privacy,2025-05-24,16,78,True
+E000011,Diversity & Inclusion,2026-05-11,8,90,False
+E000054,Data Privacy,2020-01-08,1,97,True
+E000045,Mine Site Safety,2020-07-04,1,90,False
+E000047,Leadership Basics,2025-11-07,2,64,True
+E000012,Safety Induction,2024-09-13,4,92,False
+E000021,Data Privacy,2025-11-01,2,74,True
+E000011,Leadership Basics,2026-06-21,16,64,True
+E000092,Leadership Basics,2025-04-29,2,72,True
+E000005,Data Privacy,2026-02-26,16,67,True
+E000081,Data Privacy,2025-11-26,8,92,True
+E000056,Data Privacy,2025-03-15,16,70,True
+E000020,Mine Site Safety,2020-08-22,1,75,True
+E000041,Mine Site Safety,2020-12-26,4,85,True
+E000046,Mine Site Safety,2022-08-02,4,96,True
+E000012,Data Privacy,2023-12-04,2,85,True
+E000070,Mine Site Safety,2025-05-16,4,88,False
+E000017,Leadership Basics,2026-05-06,1,75,False
+E000019,Diversity & Inclusion,2025-06-30,2,67,False
+E000026,Mine Site Safety,2022-10-03,1,98,False
+E000048,Mine Site Safety,2026-01-04,2,81,False
+E000052,Mine Site Safety,2021-04-14,1,96,True
+E000096,Diversity & Inclusion,2025-07-30,8,87,True
+E000070,Data Privacy,2022-02-27,16,83,False
+E000055,Leadership Basics,2019-11-20,4,81,True
+E000100,Safety Induction,2024-08-05,16,62,False
+E000075,Diversity & Inclusion,2024-11-01,2,95,True
+E000033,Data Privacy,2025-07-23,2,60,True
+E000062,Diversity & Inclusion,2024-01-02,1,62,True
+E000088,Diversity & Inclusion,2024-02-08,4,94,False
+E000023,Data Privacy,2026-06-20,2,73,True
+E000015,Diversity & Inclusion,2020-05-26,8,88,True
+E000027,Data Privacy,2025-09-30,2,63,False
+E000075,Safety Induction,2023-12-31,2,85,False
+E000064,Mine Site Safety,2025-06-30,2,70,False
+E000081,Diversity & Inclusion,2022-05-20,2,60,True
+E000051,Leadership Basics,2020-01-28,16,100,False
+E000053,Diversity & Inclusion,2018-10-06,4,80,True
+E000078,Leadership Basics,2024-11-17,4,78,True
+E000091,Leadership Basics,2019-10-30,16,80,False
+E000082,Leadership Basics,2024-03-29,8,74,True
+E000092,Diversity & Inclusion,2026-04-01,16,67,True
+E000051,Data Privacy,2023-11-16,8,86,True
+E000047,Data Privacy,2025-10-21,16,60,True
+E000004,Data Privacy,2025-10-03,16,95,False
+E000007,Leadership Basics,2026-02-21,8,62,True
+E000035,Safety Induction,2020-08-30,16,82,False
+E000048,Diversity & Inclusion,2026-06-25,1,65,True
+E000073,Leadership Basics,2022-09-19,16,79,True
+E000072,Data Privacy,2022-10-29,8,87,True
+E000045,Data Privacy,2022-08-01,8,100,False
+E000081,Leadership Basics,2022-08-07,2,89,True
+E000081,Safety Induction,2026-02-12,4,73,True
+E000097,Data Privacy,2025-09-30,8,98,True
+E000096,Diversity & Inclusion,2024-08-29,16,67,False
+E000072,Data Privacy,2022-02-11,2,69,True
+E000019,Leadership Basics,2024-04-18,1,76,False
+E000063,Leadership Basics,2026-02-14,1,76,True
+E000038,Mine Site Safety,2025-06-16,1,80,True
+E000067,Safety Induction,2026-05-05,1,84,True
+E000059,Safety Induction,2025-12-02,1,83,True
+E000069,Data Privacy,2025-05-14,1,82,True
+E000013,Diversity & Inclusion,2025-03-28,1,76,True
+E000047,Safety Induction,2017-10-21,16,68,True
+E000061,Mine Site Safety,2026-05-10,8,62,True
+E000031,Safety Induction,2026-01-27,8,60,True
+E000080,Leadership Basics,2026-02-18,8,91,True
+E000096,Mine Site Safety,2023-10-11,2,78,False
+E000022,Data Privacy,2026-02-24,2,92,False
+E000093,Diversity & Inclusion,2024-07-27,8,83,False
+E000086,Data Privacy,2024-10-01,1,92,False
+E000043,Data Privacy,2021-12-01,16,60,True
+E000067,Diversity & Inclusion,2019-03-24,4,78,True
+E000054,Data Privacy,2023-06-13,4,69,False
+E000010,Mine Site Safety,2025-09-28,8,82,True
+E000042,Data Privacy,2023-12-05,1,96,True
+E000064,Data Privacy,2026-04-13,2,75,False
+E000021,Data Privacy,2026-04-18,2,75,True
+E000080,Safety Induction,2025-08-07,1,71,True
+E000076,Data Privacy,2024-09-30,16,86,True
+E000066,Safety Induction,2025-10-04,16,87,True
+E000041,Data Privacy,2023-05-25,1,100,False
+E000024,Diversity & Inclusion,2025-11-11,4,61,True
+E000035,Mine Site Safety,2021-12-30,1,72,False
+E000056,Data Privacy,2025-10-27,16,79,True
+E000030,Leadership Basics,2026-05-30,2,100,False
+E000057,Leadership Basics,2025-07-11,16,69,True
+E000094,Leadership Basics,2025-05-21,16,87,True
+E000047,Diversity & Inclusion,2017-06-28,2,85,True
+E000035,Safety Induction,2024-06-14,4,71,True
+E000019,Data Privacy,2023-07-12,2,93,True
+E000008,Leadership Basics,2021-08-18,8,83,False
+E000026,Leadership Basics,2026-02-08,4,98,True
+E000071,Mine Site Safety,2024-11-10,4,100,True
+E000030,Mine Site Safety,2026-04-06,4,79,True
+E000007,Leadership Basics,2026-01-30,16,93,False
+E000067,Data Privacy,2020-06-13,2,68,False
+E000065,Safety Induction,2025-07-10,4,95,True
+E000036,Leadership Basics,2025-11-26,16,63,False
+E000025,Leadership Basics,2025-09-13,1,69,True
+E000037,Data Privacy,2025-12-26,4,80,True
+E000001,Mine Site Safety,2024-11-11,2,89,False
+E000015,Mine Site Safety,2025-12-17,1,63,False
+E000037,Safety Induction,2025-10-20,8,78,False
+E000013,Mine Site Safety,2026-01-27,1,91,False
+E000008,Safety Induction,2021-04-26,2,86,True
+E000005,Data Privacy,2026-05-04,8,80,False
+E000060,Mine Site Safety,2026-04-30,8,88,True
+E000073,Data Privacy,2025-08-09,2,78,True
+E000001,Safety Induction,2024-09-03,4,100,True
+E000036,Mine Site Safety,2023-12-14,16,99,False
+E000035,Diversity & Inclusion,2021-03-25,8,92,True
+E000066,Diversity & Inclusion,2026-01-26,4,93,True
+E000063,Diversity & Inclusion,2025-09-22,2,62,True
+E000023,Safety Induction,2024-04-11,4,75,True
+E000009,Leadership Basics,2023-05-04,2,97,True
+E000034,Mine Site Safety,2017-09-15,4,72,False
+E000046,Data Privacy,2023-07-28,2,97,False
+E000078,Data Privacy,2023-12-04,4,76,False
+E000004,Data Privacy,2025-09-26,1,98,True
+E000030,Mine Site Safety,2026-05-03,1,96,False
+E000095,Data Privacy,2024-10-10,16,61,True
+E000075,Data Privacy,2025-09-14,4,97,True
+E000099,Mine Site Safety,2026-05-09,2,96,False
+E000072,Leadership Basics,2026-05-31,2,81,False
+E000003,Leadership Basics,2024-12-28,1,72,True
+E000014,Diversity & Inclusion,2023-06-10,4,83,False
+E000060,Safety Induction,2023-05-21,4,73,True
+E000077,Safety Induction,2025-07-25,1,97,True
+E000045,Diversity & Inclusion,2020-09-26,16,69,False
+E000096,Leadership Basics,2023-09-23,4,79,True
+E000034,Mine Site Safety,2018-07-14,16,60,True
+E000045,Mine Site Safety,2020-05-26,4,82,True
+E000061,Diversity & Inclusion,2026-07-02,2,83,False
+E000083,Diversity & Inclusion,2025-11-01,8,98,True
+E000016,Safety Induction,2024-09-08,16,68,True
+E000066,Diversity & Inclusion,2025-05-12,4,98,True
+E000040,Diversity & Inclusion,2019-03-16,2,82,False
+E000017,Data Privacy,2026-04-26,1,81,True
+E000034,Diversity & Inclusion,2026-04-02,16,91,False
+E000016,Diversity & Inclusion,2023-11-05,1,99,False
+E000060,Diversity & Inclusion,2025-07-01,8,77,True
+E000066,Safety Induction,2022-07-09,1,91,False
+E000066,Leadership Basics,2023-01-05,2,95,True
+E000090,Leadership Basics,2024-07-19,8,70,True
+E000013,Data Privacy,2026-02-11,8,83,True
+E000056,Diversity & Inclusion,2026-07-05,1,92,True
+E000031,Data Privacy,2022-10-04,4,69,True
+E000034,Leadership Basics,2018-06-19,1,88,True
+E000039,Data Privacy,2026-04-17,16,60,True
+E000067,Diversity & Inclusion,2023-09-08,1,88,True
+E000008,Leadership Basics,2026-04-27,1,66,True
+E000087,Leadership Basics,2026-05-18,1,62,True
+E000078,Safety Induction,2023-03-15,16,60,True
+E000055,Safety Induction,2020-11-04,4,84,False
+E000027,Data Privacy,2021-10-16,16,91,False
+E000093,Safety Induction,2025-01-20,8,68,True
+E000053,Safety Induction,2018-01-04,16,81,False
+E000039,Data Privacy,2026-03-18,8,100,True
+E000065,Diversity & Inclusion,2023-08-16,4,78,False
+E000017,Diversity & Inclusion,2026-04-24,4,70,True
+E000030,Safety Induction,2026-04-13,2,61,True
+E000053,Mine Site Safety,2025-06-16,1,99,False
+E000013,Mine Site Safety,2024-11-15,8,77,True
+E000021,Diversity & Inclusion,2025-02-09,8,88,True
+E000019,Diversity & Inclusion,2024-03-14,4,78,True
+E000053,Data Privacy,2018-05-08,8,70,False
+E000019,Data Privacy,2026-01-09,4,89,True
+E000057,Safety Induction,2025-11-23,1,87,True
+E000025,Leadership Basics,2025-03-28,16,74,True
+E000086,Mine Site Safety,2024-05-25,1,96,True
+E000031,Leadership Basics,2025-11-17,8,76,True
+E000081,Data Privacy,2026-02-04,8,88,True
+E000055,Mine Site Safety,2024-11-13,1,87,True
+E000023,Leadership Basics,2024-12-25,1,75,False
+E000032,Data Privacy,2025-03-04,16,85,False
+E000062,Diversity & Inclusion,2026-03-23,16,81,False
+E000074,Mine Site Safety,2025-11-30,2,72,False
+E000010,Data Privacy,2025-09-27,1,99,True
+E000100,Leadership Basics,2026-07-02,8,69,True
+E000072,Safety Induction,2024-07-31,2,61,True
+E000054,Data Privacy,2019-09-11,2,82,False
+E000052,Safety Induction,2026-03-07,1,62,False
+E000020,Diversity & Inclusion,2019-12-17,1,89,True
+E000032,Mine Site Safety,2017-01-25,16,72,False
+E000014,Leadership Basics,2022-04-22,16,74,False
+E000050,Mine Site Safety,2021-10-15,2,96,False
+E000028,Safety Induction,2024-04-07,8,67,True
+E000053,Diversity & Inclusion,2023-01-04,16,91,True
+E000024,Diversity & Inclusion,2025-05-21,8,65,True
+E000079,Data Privacy,2020-07-22,16,66,False
+E000022,Leadership Basics,2026-03-08,2,67,True
+E000030,Diversity & Inclusion,2026-05-05,4,79,False
+E000063,Diversity & Inclusion,2026-07-03,4,91,False
+E000004,Data Privacy,2025-11-22,16,86,True
+E000077,Diversity & Inclusion,2021-02-18,16,94,True
+E000059,Data Privacy,2020-09-29,16,70,True
+E000087,Mine Site Safety,2024-04-23,16,94,True
+E000008,Leadership Basics,2021-11-24,1,91,True
+E000082,Data Privacy,2025-04-16,2,94,False
+E000012,Diversity & Inclusion,2026-03-25,16,69,True
+E000031,Mine Site Safety,2022-01-05,16,88,False
+E000078,Data Privacy,2022-01-08,2,69,True
+E000034,Safety Induction,2022-07-17,8,78,False
+E000082,Data Privacy,2022-11-17,2,87,True
+E000098,Data Privacy,2026-05-02,16,80,False
+E000075,Mine Site Safety,2023-09-26,1,79,False
+E000076,Data Privacy,2026-03-08,4,77,True
+E000049,Leadership Basics,2025-10-19,4,80,True
+E000079,Safety Induction,2025-04-23,4,84,True
+E000057,Leadership Basics,2026-06-13,4,60,True
+E000095,Mine Site Safety,2026-03-09,1,74,True
+E000093,Leadership Basics,2024-11-07,1,88,False
+E000026,Leadership Basics,2019-12-28,8,92,True
+E000018,Data Privacy,2024-09-21,8,99,False
+E000096,Data Privacy,2024-08-20,8,85,True
+E000086,Diversity & Inclusion,2026-05-07,2,96,False
+E000038,Leadership Basics,2026-03-06,8,85,False
+E000081,Mine Site Safety,2025-02-02,4,81,False
+E000087,Diversity & Inclusion,2023-03-09,2,89,False
+E000088,Mine Site Safety,2020-08-29,8,75,False
+E000050,Data Privacy,2022-11-30,16,86,False
+E000008,Safety Induction,2023-11-23,4,79,True
+E000041,Safety Induction,2020-08-14,1,67,False
+E000006,Diversity & Inclusion,2025-01-02,8,98,True
+E000069,Mine Site Safety,2025-09-21,1,76,False
+E000044,Diversity & Inclusion,2026-06-07,4,70,False
+E000064,Mine Site Safety,2025-02-25,2,93,True
+E000029,Leadership Basics,2022-09-20,2,91,True
+E000028,Diversity & Inclusion,2026-01-06,8,62,False
+E000011,Safety Induction,2026-05-01,8,82,False
+E000065,Diversity & Inclusion,2022-11-21,8,69,True
+E000019,Safety Induction,2025-01-31,8,72,True
+E000009,Diversity & Inclusion,2026-01-02,2,81,False
+E000027,Leadership Basics,2020-03-12,2,90,True
+E000034,Mine Site Safety,2023-10-04,16,97,False
+E000044,Data Privacy,2026-06-29,8,82,True
+E000068,Leadership Basics,2022-10-21,1,93,True
+E000100,Diversity & Inclusion,2024-05-21,1,77,False
+E000082,Safety Induction,2021-10-11,2,74,True
+E000015,Diversity & Inclusion,2018-05-20,1,91,False
+E000051,Mine Site Safety,2025-06-10,2,86,True
+E000013,Diversity & Inclusion,2024-03-15,1,71,True
+E000083,Data Privacy,2025-05-04,8,66,True
+E000049,Leadership Basics,2024-07-13,8,84,True
+E000070,Diversity & Inclusion,2020-12-11,16,76,False
+E000056,Data Privacy,2024-09-21,16,85,False
+E000076,Mine Site Safety,2024-12-22,8,98,False
+E000051,Diversity & Inclusion,2020-01-12,4,97,True
+E000037,Mine Site Safety,2025-03-16,16,89,False
+E000017,Data Privacy,2026-05-10,16,93,False
+E000058,Diversity & Inclusion,2026-06-06,1,65,True
+E000087,Data Privacy,2024-07-06,2,62,False
+E000090,Mine Site Safety,2025-02-03,1,90,True
+E000029,Diversity & Inclusion,2021-11-16,8,84,True
+E000033,Diversity & Inclusion,2026-03-06,2,79,True
+E000060,Mine Site Safety,2021-10-06,16,79,True
+E000091,Safety Induction,2026-03-18,8,92,True
+E000089,Diversity & Inclusion,2025-06-30,1,83,True
+E000055,Leadership Basics,2026-01-31,4,82,True
+E000010,Data Privacy,2025-08-24,2,72,True
+E000047,Safety Induction,2024-07-06,8,84,False
+E000023,Leadership Basics,2026-06-17,2,76,False
+E000085,Diversity & Inclusion,2018-08-26,2,88,False
+E000021,Leadership Basics,2025-12-28,16,80,False
+E000013,Safety Induction,2025-03-03,4,74,False
+E000033,Leadership Basics,2025-05-23,8,90,True
