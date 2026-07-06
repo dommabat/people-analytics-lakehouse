@@ -1,0 +1,101 @@
+employee_id,first_name,last_name,gender,birth_date,hire_date,termination_date,employment_status,employment_type,department_id,location_id,business_unit,salary_band,email,manager_id
+E000001,Diane,Ramos,Female,1991-03-09,2020-10-29,,Active,Permanent,D005,L005,Copper,C,diane.ramos@globalminingcorp.com,E000051
+E000002,Robin,Sanders,Female,1975-02-03,2026-03-01,,Active,Permanent,D003,L006,Exploration,B,robin.sanders@globalminingcorp.com,E000045
+E000003,Jon,Roberts,Male,1964-04-29,2024-03-13,,Active,Permanent,D004,L005,Iron Ore,D,jon.roberts@globalminingcorp.com,E000077
+E000004,Brandon,Johnson,Male,1992-05-09,2018-10-22,2022-12-15,Terminated,Permanent,D003,L003,Copper,D,brandon.johnson@globalminingcorp.com,
+E000005,Ronald,Wright,Male,1978-05-25,2018-06-23,,Active,Permanent,D006,L003,Lithium,D,ronald.wright@globalminingcorp.com,E000062
+E000006,Kevin,Jackson,Male,1997-12-10,2017-04-03,2021-11-22,Terminated,Permanent,D005,L001,Copper,D,kevin.jackson@globalminingcorp.com,E000065
+E000007,Cameron,Simmons,Male,1990-05-10,2023-03-06,,Active,Permanent,D002,L005,Copper,D,cameron.simmons@globalminingcorp.com,E000032
+E000008,Tiffany,Richardson,Female,2005-02-15,2024-04-16,,Active,Permanent,D007,L003,Corporate,A,tiffany.richardson@globalminingcorp.com,E000034
+E000009,Nichole,Gonzales,Female,1970-04-23,2021-05-19,,Active,Permanent,D006,L006,Copper,D,nichole.gonzales@globalminingcorp.com,E000092
+E000010,Kim,Randall,Female,1970-08-15,2019-05-03,,Active,Contractor,D002,L002,Corporate,D,kim.randall@globalminingcorp.com,E000095
+E000011,Robert,Moss,Male,1994-12-06,2024-01-11,,Active,Permanent,D007,L004,Iron Ore,F,robert.moss@globalminingcorp.com,E000072
+E000012,Evelyn,Valdez,Female,1981-03-17,2022-10-14,,Active,Permanent,D005,L008,Copper,A,evelyn.valdez@globalminingcorp.com,E000039
+E000013,Kathy,Rosario,Female,2003-01-22,2017-10-02,,Active,Permanent,D007,L005,Iron Ore,A,kathy.rosario@globalminingcorp.com,E000026
+E000014,Steven,Martinez,Other,1991-08-23,2022-09-20,,Active,Permanent,D007,L003,Aluminium,A,steven.martinez@globalminingcorp.com,E000034
+E000015,Gregory,Schmitt,Male,1997-01-29,2022-04-22,,Active,Permanent,D002,L007,Copper,A,gregory.schmitt@globalminingcorp.com,E000054
+E000016,Robert,Baldwin,Male,2000-09-09,2023-07-13,,Active,Permanent,D001,L008,Corporate,E,robert.baldwin@globalminingcorp.com,E000003
+E000017,Donald,Flores,Male,1998-07-10,2018-10-09,,Active,Contractor,D001,L003,Exploration,F,donald.flores@globalminingcorp.com,E000050
+E000018,Kyle,Medina,Male,2004-04-18,2022-09-27,,Active,Permanent,D006,L007,Aluminium,A,kyle.medina@globalminingcorp.com,E000012
+E000019,Joseph,Rodriguez,Male,1962-11-14,2019-06-16,2021-11-20,Terminated,Permanent,D003,L007,Iron Ore,D,joseph.rodriguez@globalminingcorp.com,E000065
+E000020,Jesse,Reed,Male,1987-05-15,2021-08-31,,Active,Permanent,D007,L005,Aluminium,E,jesse.reed@globalminingcorp.com,E000054
+E000021,Jasmine,Ruiz,Female,1966-04-03,2025-12-28,2026-04-26,Terminated,Permanent,D006,L004,Copper,B,jasmine.ruiz@globalminingcorp.com,E000005
+E000022,Charles,Lawrence,Male,1972-11-26,2018-03-16,,Active,Contractor,D004,L004,Lithium,D,charles.lawrence@globalminingcorp.com,E000094
+E000023,James,Lee,Male,2003-02-09,2026-05-01,,Active,Contractor,D004,L001,Corporate,A,james.lee@globalminingcorp.com,E000094
+E000024,Diana,Perkins,Female,1984-06-01,2026-06-13,,Active,Permanent,D005,L001,Aluminium,F,diana.perkins@globalminingcorp.com,E000057
+E000025,Dan,Thomas,Male,1980-03-23,2017-11-11,,Active,Permanent,D003,L002,Lithium,C,dan.thomas@globalminingcorp.com,E000017
+E000026,Amy,Williams,Female,1973-11-25,2024-03-07,,Active,Permanent,D001,L006,Iron Ore,B,amy.williams@globalminingcorp.com,E000047
+E000027,Robert,Salas,Male,2004-12-05,2025-03-01,,Active,Permanent,D001,L005,Iron Ore,A,robert.salas@globalminingcorp.com,E000023
+E000028,Sara,Schneider,Female,1967-12-29,2023-08-12,,Active,Permanent,D007,L005,Iron Ore,A,sara.schneider@globalminingcorp.com,E000079
+E000029,Virginia,Moore,Female,1996-11-29,2023-01-27,,Active,Permanent,D006,L008,Lithium,C,virginia.moore@globalminingcorp.com,E000085
+E000030,Stephanie,Craig,Female,2003-12-16,2017-08-01,,Active,Contractor,D005,L004,Copper,F,stephanie.craig@globalminingcorp.com,E000014
+E000031,Kathy,Jones,Female,1999-07-29,2017-08-29,,Active,Contractor,D001,L004,Aluminium,F,kathy.jones@globalminingcorp.com,E000066
+E000032,Nathan,Hoffman,Male,1984-05-19,2017-11-30,,Active,Permanent,D004,L003,Copper,C,nathan.hoffman@globalminingcorp.com,E000075
+E000033,Anthony,Yates,Male,1993-12-04,2022-05-03,,Active,Permanent,D001,L001,Copper,A,anthony.yates@globalminingcorp.com,E000051
+E000034,Russell,Bray,Male,1973-02-16,2023-04-17,,Active,Permanent,D007,L006,Copper,C,russell.bray@globalminingcorp.com,E000038
+E000035,Lisa,Jackson,Female,1985-10-05,2021-08-03,,Active,Graduate,D004,L004,Iron Ore,B,lisa.jackson@globalminingcorp.com,E000064
+E000036,Brandon,Thomas,Other,1973-04-27,2018-01-25,,Active,Permanent,D003,L007,Iron Ore,A,brandon.thomas@globalminingcorp.com,E000098
+E000037,Kelli,Wilson,Female,1962-04-22,2019-11-13,,Active,Contractor,D006,L008,Iron Ore,D,kelli.wilson@globalminingcorp.com,E000038
+E000038,Brianna,Phillips,Female,1977-05-24,2023-04-19,,Active,Contractor,D004,L006,Aluminium,F,brianna.phillips@globalminingcorp.com,E000050
+E000039,Terry,Turner,Male,1989-04-25,2016-12-25,,Active,Permanent,D006,L002,Copper,F,terry.turner@globalminingcorp.com,E000098
+E000040,Jeffrey,Alexander,Male,2004-07-25,2022-04-14,,Active,Permanent,D004,L001,Corporate,E,jeffrey.alexander@globalminingcorp.com,E000082
+E000041,Kylie,Lopez,Female,1975-12-12,2017-09-14,,Active,Permanent,D003,L001,Iron Ore,D,kylie.lopez@globalminingcorp.com,E000030
+E000042,Logan,Lynch,Male,1995-05-21,2020-08-29,,Active,Permanent,D006,L006,Corporate,E,logan.lynch@globalminingcorp.com,E000079
+E000043,John,Compton,Male,1996-03-04,2017-07-11,,Active,Permanent,D005,L006,Iron Ore,D,john.compton@globalminingcorp.com,E000091
+E000044,James,Harding,Male,1997-06-21,2020-11-16,,Active,Permanent,D003,L004,Aluminium,A,james.harding@globalminingcorp.com,E000051
+E000045,Sandra,Smith,Female,1985-07-10,2019-06-05,,Active,Permanent,D006,L005,Corporate,C,sandra.smith@globalminingcorp.com,E000063
+E000046,Derrick,Wells,Male,1964-03-16,2020-09-23,,Active,Permanent,D006,L005,Aluminium,D,derrick.wells@globalminingcorp.com,E000098
+E000047,Thomas,Anderson,Male,1979-07-08,2020-07-07,,Active,Permanent,D007,L001,Aluminium,B,thomas.anderson@globalminingcorp.com,E000052
+E000048,Ian,Robinson,Male,1975-10-07,2022-04-24,,Active,Permanent,D006,L008,Copper,F,ian.robinson@globalminingcorp.com,E000038
+E000049,Crystal,Peters,Female,1980-02-16,2023-08-01,,Active,Permanent,D002,L001,Iron Ore,A,crystal.peters@globalminingcorp.com,E000097
+E000050,Daniel,Hamilton,Male,1982-12-07,2021-10-08,,Active,Permanent,D007,L002,Aluminium,B,daniel.hamilton@globalminingcorp.com,E000088
+E000051,Robert,Moore,Male,1983-10-10,2021-03-31,,Active,Permanent,D001,L004,Exploration,D,robert.moore@globalminingcorp.com,E000079
+E000052,Timothy,Young,Male,1990-09-02,2025-09-13,,Active,Contractor,D004,L003,Lithium,B,timothy.young@globalminingcorp.com,E000030
+E000053,Nicole,Williams,Female,1962-01-12,2021-09-19,,Active,Permanent,D001,L002,Corporate,E,nicole.williams@globalminingcorp.com,E000051
+E000054,Dean,Wilkins,Male,2001-08-28,2023-01-17,,Active,Permanent,D002,L006,Corporate,C,dean.wilkins@globalminingcorp.com,E000081
+E000055,Samantha,Williams,Female,1999-12-09,2018-05-23,,Active,Contractor,D004,L004,Exploration,D,samantha.williams@globalminingcorp.com,E000005
+E000056,Michael,Rodriguez,Male,1972-01-30,2023-02-10,,Active,Permanent,D003,L007,Lithium,E,michael.rodriguez@globalminingcorp.com,E000029
+E000057,Anthony,Moore,Male,1983-03-03,2019-07-23,,Active,Permanent,D007,L003,Lithium,B,anthony.moore@globalminingcorp.com,E000004
+E000058,Olivia,Ware,Female,1975-07-06,2025-06-16,2026-03-10,Terminated,Graduate,D007,L007,Iron Ore,D,olivia.ware@globalminingcorp.com,E000010
+E000059,Diane,Martin,Female,1996-09-27,2018-03-09,,Active,Permanent,D002,L008,Corporate,F,diane.martin@globalminingcorp.com,E000056
+E000060,Jesse,Aguilar,Male,1972-02-09,2022-07-31,,Active,Permanent,D005,L007,Exploration,F,jesse.aguilar@globalminingcorp.com,E000017
+E000061,Joe,West,Male,1979-05-29,2017-11-28,2026-02-13,Terminated,Permanent,D003,L005,Corporate,A,joe.west@globalminingcorp.com,E000074
+E000062,Cynthia,Stewart,Female,1980-07-31,2017-03-26,2023-01-19,Terminated,Permanent,D006,L006,Corporate,D,cynthia.stewart@globalminingcorp.com,E000017
+E000063,Lauren,Fox,Female,1971-05-14,2020-04-02,2022-08-23,Terminated,Contractor,D005,L007,Lithium,A,lauren.fox@globalminingcorp.com,E000084
+E000064,Jose,Olsen,Male,1980-07-29,2026-01-05,,Active,Permanent,D006,L005,Lithium,B,jose.olsen@globalminingcorp.com,E000088
+E000065,Michelle,Robinson,Female,1972-03-19,2020-03-12,2022-04-23,Terminated,Contractor,D001,L008,Exploration,E,michelle.robinson@globalminingcorp.com,E000069
+E000066,Jennifer,Mckinney,Female,1972-04-06,2022-11-12,2025-10-15,Terminated,Permanent,D001,L004,Aluminium,D,jennifer.mckinney@globalminingcorp.com,E000034
+E000067,Casey,Reeves,Male,1962-09-29,2017-10-04,,Active,Permanent,D001,L005,Aluminium,C,casey.reeves@globalminingcorp.com,E000006
+E000068,Justin,Rios,Male,2000-06-01,2022-08-08,,Active,Graduate,D002,L003,Lithium,E,justin.rios@globalminingcorp.com,E000053
+E000069,Crystal,Werner,Female,1977-02-19,2017-03-21,2017-11-29,Terminated,Permanent,D003,L002,Aluminium,A,crystal.werner@globalminingcorp.com,E000066
+E000070,Jesse,Martinez,Male,1981-11-13,2024-07-29,,Active,Permanent,D006,L002,Aluminium,A,jesse.martinez@globalminingcorp.com,E000077
+E000071,William,Kent,Male,1997-10-21,2023-03-18,,Active,Permanent,D003,L005,Lithium,A,william.kent@globalminingcorp.com,E000043
+E000072,Christopher,Barr,Male,1990-04-26,2019-12-05,,Active,Permanent,D001,L008,Aluminium,A,christopher.barr@globalminingcorp.com,E000075
+E000073,Jimmy,Ferrell,Male,1977-01-26,2022-01-22,,Active,Permanent,D007,L006,Exploration,D,jimmy.ferrell@globalminingcorp.com,E000023
+E000074,Eric,Bell,Male,1989-12-16,2020-06-16,,Active,Contractor,D001,L006,Iron Ore,A,eric.bell@globalminingcorp.com,E000055
+E000075,Todd,Bradley,Male,1999-04-29,2024-02-05,,Active,Permanent,D003,L003,Iron Ore,D,todd.bradley@globalminingcorp.com,E000080
+E000076,Jessica,Wilcox,Female,1990-06-12,2024-06-13,,Active,Permanent,D007,L004,Corporate,D,jessica.wilcox@globalminingcorp.com,E000095
+E000077,Kevin,Williams,Male,1962-09-09,2025-09-22,,Active,Permanent,D003,L004,Iron Ore,D,kevin.williams@globalminingcorp.com,E000075
+E000078,Richard,Miller,Male,2002-02-06,2021-09-10,,Active,Contractor,D001,L007,Exploration,E,richard.miller@globalminingcorp.com,E000016
+E000079,George,Aguilar,Male,1975-05-29,2026-06-16,2026-06-25,Terminated,Permanent,D005,L003,Exploration,C,george.aguilar@globalminingcorp.com,E000008
+E000080,Charles,Koch,Male,1992-12-03,2022-09-27,,Active,Permanent,D002,L004,Iron Ore,E,charles.koch@globalminingcorp.com,E000004
+E000081,Allen,Brown,Male,1994-08-20,2017-12-02,,Active,Permanent,D001,L002,Aluminium,B,allen.brown@globalminingcorp.com,E000004
+E000082,Amanda,Jefferson,Female,2002-11-14,2016-10-14,,Active,Permanent,D005,L001,Corporate,D,amanda.jefferson@globalminingcorp.com,E000056
+E000083,Grace,Barron,Female,1995-08-04,2021-08-02,,Active,Permanent,D004,L006,Lithium,C,grace.barron@globalminingcorp.com,E000025
+E000084,Mark,Richardson,Male,1994-07-01,2025-04-14,,Active,Permanent,D002,L003,Corporate,C,mark.richardson@globalminingcorp.com,E000067
+E000085,Nancy,Dunlap,Female,1970-12-22,2022-11-19,,Active,Permanent,D004,L004,Exploration,A,nancy.dunlap@globalminingcorp.com,E000096
+E000086,Marcus,Wagner,Male,1991-06-17,2023-01-13,,Active,Permanent,D001,L007,Lithium,A,marcus.wagner@globalminingcorp.com,E000067
+E000087,Jill,Jenkins,Female,1995-01-28,2025-03-22,,Active,Permanent,D002,L004,Exploration,E,jill.jenkins@globalminingcorp.com,E000027
+E000088,Erin,Perry,Female,1998-11-03,2019-02-06,,Active,Permanent,D003,L004,Exploration,D,erin.perry@globalminingcorp.com,E000093
+E000089,Samuel,Mcconnell,Male,1962-02-22,2017-02-24,,Active,Permanent,D001,L001,Corporate,A,samuel.mcconnell@globalminingcorp.com,E000032
+E000090,Paul,Carrillo,Male,1970-09-22,2023-06-22,,Active,Contractor,D001,L003,Lithium,B,paul.carrillo@globalminingcorp.com,E000050
+E000091,Timothy,Barry,Male,1994-08-21,2021-02-24,,Active,Permanent,D004,L005,Copper,D,timothy.barry@globalminingcorp.com,E000061
+E000092,William,Rodriguez,Male,1976-05-12,2019-08-14,,Active,Permanent,D004,L004,Exploration,A,william.rodriguez@globalminingcorp.com,E000051
+E000093,Karen,Ward,Female,1995-03-19,2022-03-09,,Active,Permanent,D001,L001,Exploration,D,karen.ward@globalminingcorp.com,E000019
+E000094,Albert,Reed,Male,1977-08-17,2022-05-19,,Active,Permanent,D003,L005,Corporate,B,albert.reed@globalminingcorp.com,E000021
+E000095,Karen,Sullivan,Female,1964-06-23,2024-07-31,,Active,Contractor,D002,L008,Corporate,B,karen.sullivan@globalminingcorp.com,E000005
+E000096,Andrew,Burke,Male,1987-08-30,2026-06-23,,Active,Permanent,D006,L001,Copper,A,andrew.burke@globalminingcorp.com,E000082
+E000097,April,Burns,Female,1975-05-28,2016-08-09,,Active,Permanent,D003,L003,Iron Ore,E,april.burns@globalminingcorp.com,E000092
+E000098,Denise,Washington,Female,1972-12-24,2020-05-02,2025-07-02,Terminated,Permanent,D005,L008,Corporate,D,denise.washington@globalminingcorp.com,E000042
+E000099,Michael,Jackson,Male,1995-03-15,2016-09-21,,Active,Graduate,D005,L007,Exploration,E,michael.jackson@globalminingcorp.com,E000061
+E000100,James,Page,Male,1961-07-24,2017-12-21,,Active,Permanent,D006,L001,Corporate,A,james.page@globalminingcorp.com,E000022

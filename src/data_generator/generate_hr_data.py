@@ -7,7 +7,7 @@ from datetime import datetime, date
 fake = Faker()
 np.random.seed(42)
 
-OUTPUT_DIR = Path("data/sample")
+OUTPUT_DIR = Path("data/bronze")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 NUM_EMPLOYEES = 100
