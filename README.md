@@ -1,5 +1,5 @@
-Azure Databricks People Analytics Lakehouse
-Engineering Handover / Learning Notes
+**Azure Databricks People Analytics Lakehouse
+Engineering Handover / Learning Notes**
 
 Project: Enterprise People Analytics Lakehouse on Azure Databricks
 
@@ -48,7 +48,7 @@ Gold Layer
        │
        ▼
 Power BI Dashboard
-Sprint 1 — Azure Environment Setup
+**Sprint 1 — Azure Environment Setup**
 Objective
 
 Create an enterprise Azure environment.
@@ -65,7 +65,7 @@ Azure Storage is where enterprise data lives.
 
 Databricks performs computation but does not permanently store business data.
 
-Sprint 2 — Azure Data Lake Storage (ADLS Gen2)
+**Sprint 2 — Azure Data Lake Storage (ADLS Gen2)**
 Objective
 
 Create enterprise storage.
@@ -95,7 +95,7 @@ ADLS Gen2 is Microsoft's enterprise data lake.
 
 It stores files efficiently and securely.
 
-Sprint 3 — Unity Catalog
+**Sprint 3 — Unity Catalog**
 Objective
 
 Create enterprise governance.
@@ -121,7 +121,7 @@ metadata
 
 Instead of storing random files, enterprise companies organize everything inside catalogs and schemas.
 
-Sprint 4 — Managed Identity
+**Sprint 4 — Managed Identity**
 Objective
 
 Avoid passwords.
@@ -322,7 +322,7 @@ Learned
 
 Never trust ingestion until it is validated.
 
-Sprint 10 — Silver Layer (Current)
+**Sprint 10 — Silver Layer**
 Objective
 
 Transform raw data into business-ready datasets.
@@ -420,7 +420,7 @@ employee_profile
 
 Then validate entire Silver Layer.
 
-Planned Sprint 11 — Gold Layer
+**Sprint 11 — Gold Layer**
 
 Goal
 
@@ -589,6 +589,9 @@ Layered architecture: Bronze (raw), Silver (clean), Gold (business-ready).
 Automation over manual work: loops and reusable code instead of repetitive notebook cells.
 Validation at every stage: we confirm schemas, row counts, and data quality before moving on.
 Production mindset: each notebook represents a stage in a real data pipeline rather than a one-off analysis.
+
+
+
 Current Project Status
 Sprint	Status
 Sprint 1 – Azure Setup	✅ Complete
