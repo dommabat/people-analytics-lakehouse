@@ -9,6 +9,30 @@ Platform: Azure Databricks
 
 Architecture: Medallion Lakehouse (Bronze → Silver → Gold)
 
+
+GitHub / Local Python
+        │
+        │  Synthetic data generation
+        │  Automated ADLS upload
+        ▼
+Azure Data Lake Storage Gen2
+people-data/bronze
+        │
+        ▼
+Azure Databricks
+        │
+        ├── Bronze
+        │   Raw Delta tables
+        │
+        ├── Silver
+        │   Cleaned, standardised and enriched tables
+        │
+        ├── Gold
+        │   Business-ready analytical datasets
+        │
+        └── Audit
+            Data quality and pipeline run history
+
 Final Goal
 
 Build an enterprise-grade HR Analytics platform that demonstrates professional Azure Data Engineering skills.
